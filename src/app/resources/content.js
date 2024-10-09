@@ -1,7 +1,7 @@
 import { InlineCode } from '@/once-ui/components'
 
 const person = {
-   firstName: 'Top Raised',
+   firstName: 'Raised Flooring Atop',
    lastName: 'Flooring',
    get name() {
       return `${this.firstName} ${this.lastName}`
@@ -109,7 +109,7 @@ const about = {
                   the best way possible so they can make fortune.
                </>,
                <>
-                  Best Way to make the Atop Raised FLooring in the Dubai and
+                  Best Way to make the Raised Flooring Atop in the Dubai and
                   gulf Content
                </>,
             ],
@@ -133,7 +133,7 @@ const about = {
                   project in raised flooring solution in dubai{' '}
                </>,
                <>
-                  Atop Raised Flooring make their look in the project of their
+                  Raised Flooring Atop make their look in the project of their
                   studies and help them gain insight about project
                </>,
             ],
