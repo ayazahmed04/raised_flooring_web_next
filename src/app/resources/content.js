@@ -52,10 +52,11 @@ const home = {
    label: 'Home',
    title: `${person.name}'s Portfolio`,
    description: `Portfolio website showcasing my work as a ${person.role}`,
-   headline: <>Design engineer and builder</>,
+   headline: <>Raised Flooring Atop </>,
    subline: (
       <>
-         We want to be number <InlineCode>ONE</InlineCode>, Provider of
+         Raised Flooring Atop want to be number <InlineCode>ONE</InlineCode>,
+         Provider of
          <br /> Raised Flooring Solution in Asia based in Dubai, China and
          Singaport.
          <br /> We're expert in Global Export All over the world.
@@ -169,7 +170,7 @@ const about = {
             images: [
                {
                   src: '/images/projects/project-01/cover-02.jpg',
-                  alt: 'Atop Riased Flooring',
+                  alt: 'Raised Flooring Atop Projects',
                   width: 16,
                   height: 9,
                },
